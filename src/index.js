@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
+import {API_KEY} from './credentials'
 
 // Create new component
 const App = () => {
@@ -8,4 +9,3 @@ const App = () => {
 
 // Put this component on the DOM
 ReactDOM.render(<App />, document.querySelector('.container'));
-
