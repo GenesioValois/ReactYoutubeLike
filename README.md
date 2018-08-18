@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# ReactYoutubeLike
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Made in the [Redux](https://www.udemy.com/react-redux/) course, using as boilerplate ReduxSimpleStarter repo.
 
 ### Getting Started
 
